@@ -12,3 +12,8 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.head-resume{height: 100px;}
+.resume-img{width: 180px;}
+.borderless{padding-left: 0px !important;}
+.list-exp{display: inline;}
